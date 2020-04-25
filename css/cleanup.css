@@ -9,7 +9,7 @@
   display: none;
 }
 
-div#wall #tag-3.slick {
+#wall #tag-3.slick {
   display: none;
 }
 
@@ -17,15 +17,15 @@ div#wall #tag-3.slick {
   display: none;
 }
 
-div#wall .parent #tag-5.slick {
+#wall .parent #tag-5.slick {
 
   display: none;
 }
 
-div#wall div.parent div:last-child div#tag-6 {
+#wall div.parent div:last-child #tag-6 {
   display: none;
 }
 
-body div#wall div.parent div > #tag-7.slick {
+body #wall div.parent div > #tag-7.slick {
   display: none;
 }
